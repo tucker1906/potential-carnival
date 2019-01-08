@@ -1,2 +1,2 @@
 # potential-carnival
-The first repository--(HelloGit)!
+The first repository--(HelloWorld)!
