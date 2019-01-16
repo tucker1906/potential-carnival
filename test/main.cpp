@@ -3,7 +3,8 @@
 
 int main()
 {
-	printf_s("Hello World!");
-
+	printf_s("Hello liyang!");
+	printf_s("liyang");
+	printf_s("ÍõêÅäü");
 	return 0;
 }
